@@ -1,0 +1,7 @@
+C:\Net\TP1\Multihilo\Multihilo\bin\Debug\Multihilo.exe.config
+C:\Net\TP1\Multihilo\Multihilo\bin\Debug\Multihilo.exe
+C:\Net\TP1\Multihilo\Multihilo\bin\Debug\Multihilo.pdb
+C:\Net\TP1\Multihilo\Multihilo\obj\Debug\Multihilo.csprojAssemblyReference.cache
+C:\Net\TP1\Multihilo\Multihilo\obj\Debug\Multihilo.csproj.CoreCompileInputs.cache
+C:\Net\TP1\Multihilo\Multihilo\obj\Debug\Multihilo.exe
+C:\Net\TP1\Multihilo\Multihilo\obj\Debug\Multihilo.pdb
